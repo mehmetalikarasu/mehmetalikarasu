@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pexels.com/tr-tr/fotograf/metin-goruntuleme-acik-bilgisayar-monitoru-270360/)
+
 <h1 align="center">Hi 👋, I'm Mehmet Ali Karasu</h1>
 <h3 align="center">A passionate QA Tester from Turkey</h3>
 
