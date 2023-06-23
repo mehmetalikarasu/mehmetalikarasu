@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet Ali Karasu</h1>
-<h3 align="center">A passionate QA Tester from Turkey</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalikarasu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalikarasu" /> </p>
 
