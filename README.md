@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetalikarasu&show_icons=true&locale=en" alt="mehmetalikarasu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetalikarasu&" alt="mehmetalikarasu" /></p>
+
 
 
 
