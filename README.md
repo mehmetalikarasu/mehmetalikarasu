@@ -26,4 +26,4 @@
 
 
 
-![snake gif](https://github.com/mehmetalikarasu/mehmetalikarasu/blob/output/github-contribution-grid-snake.gif)
+
