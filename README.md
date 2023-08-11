@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetalikarasu&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalikarasu" /> </p>
 
-- 🔭 I’m currently working on **Selenium, Java, SQL**
+- 🔭 I’m currently working on **Selenium, Java, SQL, API**
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Selenium, API**
 
 - 📫 How to reach me **mak.0416csgo@gmail.com**
 
